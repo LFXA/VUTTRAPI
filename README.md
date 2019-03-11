@@ -71,3 +71,17 @@ Um objeto ferramenta tem os seguintes atributos:
 + Response (application/json)
 
 {}
+
+### Autenticação
+
+## Login [PUT /login]
+
++ Request (application/json)
+{
+    "user":"lucas",
+    "pwd":"123"
+}
+
+## Logout [GET /logout]
+
+executa logout da api
