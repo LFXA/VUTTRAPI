@@ -39,8 +39,8 @@ Um objeto ferramenta tem os seguintes atributos:
 
 ## Cole��o de Tools [/tools/{?tag=:tag}]
 
-+ Parameters
-    + tag: node 
++ Parametros
+    + tag: String 
 
 ### Criar uma nova Tool [POST]
 
