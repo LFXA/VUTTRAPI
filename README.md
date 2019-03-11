@@ -37,7 +37,7 @@ Um objeto ferramenta tem os seguintes atributos:
         }
 
 
-## Cole��o de Tools [/tools/{?tag=:tag}]
+## Coleção de Tools [/tools/{?tag=:tag}]
 
 + Parametros
     + tag: String 
